@@ -7,3 +7,6 @@
 ### gif
 
 <img src="screenshots/jigsaw_puzzle_demo.gif" width=400/>
+
+讲解
+https://juejin.cn/post/7034468879795486756
